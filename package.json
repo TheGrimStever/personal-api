@@ -1,0 +1,27 @@
+{
+  "name": "personal-api",
+  "version": "0.0.1",
+  "description": "Practice building a personal-api",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheGrimStever/personal-api.git"
+  },
+  "keywords": [
+    "practice",
+    "api"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheGrimStever/personal-api/issues"
+  },
+  "homepage": "https://github.com/TheGrimStever/personal-api#readme",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4"
+  }
+}
